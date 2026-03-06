@@ -1,20 +1,23 @@
-# Smart Expense & Budget Automation Agent
+# CODETECH C Programming Internship
 
-## Description
-This project helps students and young professionals automatically track their expenses from bank SMS and email alerts. It organizes transactions, categorizes spending, and helps users manage their budget better.
+This repository contains the tasks completed during the CODETECH C Programming Internship.
 
-## Features
-- Extracts transaction data from SMS and emails
-- Categorizes expenses automatically
-- Shows spending trends using graphs
-- Helps users track monthly budget
+## Tasks
 
-## Technologies Used
-- Python
-- Gmail API
-- Machine Learning (Linear Regression)
-- Matplotlib
-- NumPy
+Task 1: File Handling  
+Program to read and process data from a file.
+
+Task 2: Linked List  
+Implementation of a singly linked list in C.
+
+Task 3: Lexical Analyzer  
+Program to identify keywords, identifiers, and operators.
+
+Task 4: Run Length Encoding  
+Program that compresses strings using Run Length Encoding (RLE).
+
+## Language Used
+C Programming
 
 ## Author
 Silvi Meshram
